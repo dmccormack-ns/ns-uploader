@@ -107,7 +107,7 @@ func main() {
 		ApplicationID: Element{
 			XMLName: xml.Name{Local: "applicationId"},
 			Type:    "xsd:string",
-			Value:   "6CEAF778-AA4C-4A21-9E59-510B940360FB",
+			Value:   "",
 		},
 	}
 
